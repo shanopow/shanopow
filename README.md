@@ -1,8 +1,9 @@
 ## Hello
 <p>
-  Enjoyer of simulations, C++, Lua<br>
-  Sadly competent in Python (Flask) <br>
-  Not much here, lots is privated, More public over this year<br>
+  Enjoyer of simulations, C++, Lua (Not necessarily good at them though)  
+  Sadly competent in Python (Flask)  
+  Not much on this account, lots is privated  
+  Will make more public over this year  
 </p>
 
 ## Stats <br>
