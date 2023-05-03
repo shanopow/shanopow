@@ -1,5 +1,7 @@
-Enjoyer of simulations, C++, Lua
-Not much here, lots is privated, More public over this year
+<p>
+  Enjoyer of simulations, C++, Lua
+  Not much here, lots is privated, More public over this year<br>
+</p>
 These can get rate limited lmao
 
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=shanopow&theme=gruvbox)
