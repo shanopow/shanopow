@@ -15,9 +15,9 @@ These can get rate limited lmao
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=fall_clone&theme=gruvbox)](https://github.com/shanopow/fall_clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=victoria_crazy&theme=gruvbox)](https://github.com/shanopow/victoria_crazy)
-
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=vic_crazy2&theme=gruvbox)](https://github.com/shanopow/vic_crazy2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=fighter_exp&theme=gruvbox)](https://github.com/shanopow/fighter_exp)
-
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=pizza_web_app&theme=gruvbox)](https://github.com/shanopow/pizza_web_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=WebWatch&theme=gruvbox)](https://github.com/shanopow/WebWatch)
