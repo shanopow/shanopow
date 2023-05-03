@@ -5,15 +5,14 @@
   Not much here, lots is privated, More public over this year<br>
 </p>
 
-## Stats
-<p>
-  These can get rate limited lmao
-</p>
+## Stats <br>
+These can get rate limited lmao
+
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=shanopow&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanopow&theme=gruvbox)
 
 
-My main public repos
+## My main public repos <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=fall_clone&theme=gruvbox)](https://github.com/shanopow/fall_clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=victoria_crazy&theme=gruvbox)](https://github.com/shanopow/victoria_crazy)
 
