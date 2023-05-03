@@ -1,5 +1,6 @@
 <p>
   Enjoyer of simulations, C++, Lua<br>
+  Sadly competent in Python (Flask)
   Not much here, lots is privated, More public over this year<br>
 </p>
 These can get rate limited lmao
