@@ -1,7 +1,10 @@
+Enjoyer of simulations, C++, Lua
+
+These can get rate limited lmao
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=shanopow&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanopow&theme=gruvbox)
 
-Some Public Repos
+Some Public Repos I wrote
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=fall_clone&theme=gruvbox)](https://github.com/shanopow/fall_clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanopow&repo=victoria_crazy&theme=gruvbox)](https://github.com/shanopow/victoria_crazy)
