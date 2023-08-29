@@ -1,7 +1,7 @@
 ## Hello
 <p>
   Enjoyer of simulations, C++, Lua (Not necessarily good at them though)<br>
-  Sadly competent in Python (Flask)<br>
+  Competent in Python (Flask), with JS baked into HTML frontends<br>
   Not much on this account, lots is privated<br>  
   Will make more public over this year<br>
 </p>
